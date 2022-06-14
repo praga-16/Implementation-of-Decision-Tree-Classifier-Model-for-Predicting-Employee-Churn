@@ -33,8 +33,8 @@ From sklearn.tree import DecisionTreeClassifier and use criterion as entropy.
 ```python
 
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: Monisha T
-RegisterNumber:  212221240029
+Developed by: PRAGATHEESVARAN AB
+RegisterNumber:  212221240039
 
 import pandas as pd
 data=pd.read_csv("Employee.csv")
